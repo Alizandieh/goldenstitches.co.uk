@@ -1,0 +1,234 @@
+/* CSS Document */
+
+body {
+	font:12px Trebuchet MS, Tahoma, Arial;
+	color:#000000;
+	background:#72783e;
+	margin:0px;
+	padding:0px;
+}
+
+#container {
+	width:980px;
+	margin:0px auto;
+}
+
+.menuzone {
+	height:60px;
+	background:url(/images/menubg.png) left top no-repeat;
+	margin-top:-5px;
+	padding-top:10px;
+	position:relative;
+	z-index:3;
+}
+
+.banner {
+	padding-top:5px;
+	height:245px;
+	position:relative;
+	background:url(/images/header2.jpg) left top no-repeat;
+}
+
+.logo {
+	margin:80px 0 0 20px;
+	height:auto;
+	width:300px;
+	float:left;
+	Font:40px Georgia, "Times New Roman", Times, serif;
+}
+.logo a{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.headerimg {
+	width:630px;
+	height:220px;
+	margin:0 5px 0 20px;
+	float:right;
+	overflow:hidden;
+}
+.columnzone {
+	background:#dcbea2 url(/images/background3.jpg) no-repeat;
+	color:#000000;
+	margin-top:-35px;
+	padding-top:52px;
+	position:relative;
+	z-index:0;
+}
+
+.four_columnbg {
+	margin-top:-40px;
+	background-image:url(/images/four_transparent.png);
+	background-repeat:repeat-y;
+}
+
+.three_columnbg {
+	margin-top:-40px;
+	background-image:url(/images/three_transparent.png);
+	background-repeat:repeat-y;
+}
+
+.two_columnbg {
+	margin-top:-40px;
+	background-image:url(/images/two_transparent.png);
+	background-repeat:repeat-y;
+}
+
+.full_columnbg {
+	margin-top:-40px;
+	background-image:url(/images/full_transparent.png);
+	background-repeat:repeat-y;
+}
+
+.left_sidebarbg {
+	margin-top:-40px;
+	background-image:url(/images/left_transparent.png);
+	background-repeat:repeat-y;
+}
+
+.right_sidebarbg {
+	margin-top:-40px;
+	background-image:url(/images/right_transparent.png);
+	background-repeat:repeat-y;
+}
+
+.column1 {
+	width:244px;
+	float:left;
+}
+
+.column2 {
+	width:244px;
+	float:left;
+}
+
+.column3 {
+	width:244px;
+	float:left;
+}
+
+.column4 {
+	width:245px;
+	float:left;
+}
+
+.center_main {
+	width:489px;
+	float:left;
+}
+
+.full_column {
+	width:982px;
+	float:left;
+}
+
+.left_column {
+	width:488px;
+	float:left;
+}
+
+.left_main {
+	width:732px;
+	float:left;
+}
+
+.right_column {
+	width:489px;
+	float:left;
+}
+
+.right_main {
+	width:732px;
+	float:left;
+}
+
+.columncontent {
+	padding:14px 20px 20px 20px;
+}
+
+.footer {
+	background:url(/images/footer.png) no-repeat;
+	height:60px;
+	text-align:center;
+	color:#fefaca;
+	padding-top:18px;
+	margin-top:-15px;
+	margin-bottom:20px;
+	position:relative;
+	z-index:2;
+}
+
+
+.clear {
+	clear:both;
+	margin:0px;
+	padding:0px;
+}
+
+
+/*	Text Style Start Here 
+	
+	See Typography.css
+
+Text Style End Here */
+
+
+/*	Link Styles Start Here	*/
+
+a {
+	color:#330000;
+	text-decoration:underline;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+.mainmenu {
+	text-align:left;
+	padding:7px 10px 0px 10px;
+}
+
+.mainmenu ul {
+	margin:0px;
+	padding:0px;
+}
+
+.mainmenu li {
+	display:inline;
+	font-weight:bold;
+	border-right:1px solid #ffffff;
+	padding:0px 10px 0px 10px;
+}
+
+.mainmenu li a{
+	font:bold 13px Georgia, Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	text-transform:capitalize;
+	text-decoration:none;
+}
+
+.mainmenu li a:hover {
+	color:#fefaca;
+	text-decoration:none;
+}
+
+.footer a{
+	color:#fefaca;
+	text-decoration:underline;
+}
+
+.footer a:hover {
+	text-decoration:none;
+}
+/*	Link Styles End Here	*/
+
+/* Inside Style Start Here	*/
+
+.insideworkzone {
+	background:#ffffff;
+	padding:15px;
+}
+
+/* Inside Style End Here	*/

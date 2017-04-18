@@ -1,0 +1,57 @@
+/* CSS Document */
+
+body {
+	/* customize_body */ font:12px Trebuchet MS, Tahoma, Arial; /* customize_body */
+	/* customize_body */ color:#000000; /* customize_body */
+	/* customize_body */ background:#72783e; /* customize_body */
+	margin:0px;
+	padding:0px;
+}
+
+a {
+	/* customize_link */ color:#330000; /* customize_link */
+	text-decoration:underline;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+h1 {
+	font:25px Georgia, Arial, Helvetica, sans-serif;
+	color:#000000;
+	padding:5px;
+	border-bottom:1px dotted #330000;
+	margin:0px 0px 15px 0px;
+}
+
+h2 {
+	font:22px Georgia, Arial, Helvetica, sans-serif;
+	color:#000000;
+	padding:5px;
+	margin:0px 0px 10px 0px;
+}
+h3 {
+	font:19px Georgia, Arial, Helvetica, sans-serif;
+	color:#000000;
+	padding:5px;
+	margin:0px 0px 10px 0px;
+}
+
+h4 {
+	font:15px Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-weight:100;
+	padding:5px;
+	border-bottom:1px dotted #000000;
+	margin:0px 0px 10px 0px;
+}
+
+
+h5 {
+	font:15px Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-weight:100;
+	padding:5px;
+	margin:0px 0px 10px 0px;
+}

@@ -1,0 +1,30 @@
+
+
+
+
+a {
+	text-decoration: underline;
+	/* customize_link */ color: #667700; /* customize_link */
+}
+
+a:hover {
+	text-decoration: none;
+	/* customize_link_hover */ color: #667700; /* customize_link_hover */
+}
+
+
+body
+{
+	/* customize_body */
+	font-family: "trebuchet ms", sans-serif;
+	/* customize_body */
+	/* customize_body */
+	font-size: 10pt;
+	/* customize_body */
+	/* customize_body */
+	background-color: #000000;
+	/* customize_body */
+	/* customize_body */
+	color: #6F5129;
+	/* customize_body */
+}
